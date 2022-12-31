@@ -1,0 +1,14 @@
+
+J
+java:S1066r"/Merge this if statement with the enclosing one.(µÅéôøÿÿÿÿ
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¿š´
+>
+java:S1604C"(Make this anonymous inner class a lambda(¹êº
+m
+java:S1104"RMake mTasks a static final constant or non-public and provide accessors if needed.(‘ëø¨ıÿÿÿÿ
+]
+java:S18544"BRemove this useless assignment to local variable "timeTextString".(¬Éİ›ıÿÿÿÿ
+I
+java:S14810"3Remove this unused "timeTextString" local variable.(ÖÙšù
+>
+java:S1125?"(Remove the unnecessary boolean literals.(Ïîñ¶

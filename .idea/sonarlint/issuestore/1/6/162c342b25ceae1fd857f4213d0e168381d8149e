@@ -1,0 +1,38 @@
+
+p
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").( ¢¯î
+C
+java:S1604S"(Make this anonymous inner class a lambda(°Øşÿÿÿÿ
+D
+java:S1604ƒ"(Make this anonymous inner class a lambda(İ¾£Óùÿÿÿÿ
+?
+java:S1604“"(Make this anonymous inner class a lambda(‚úé¯
+?
+java:S1604œ"(Make this anonymous inner class a lambda(™ç»
+R
+java:S4973a"<Strings and Boxed types should be compared using "equals()".(©è©¤
+R
+java:S4973a"<Strings and Boxed types should be compared using "equals()".(©è©¤
+R
+java:S4973a"<Strings and Boxed types should be compared using "equals()".(©è©¤
+]
+java:S1659!"GDeclare "minuteText" and all following declarations on a separate line.(˜¼ë­
+e
+java:S1659""JDeclare "minutesString" and all following declarations on a separate line.(¤èÂµüÿÿÿÿ
+_
+java:S1659#"DDeclare "minutes" and all following declarations on a separate line.(éîàçûÿÿÿÿ
+c
+java:S1659$"MDeclare "timeLeftInMillis" and all following declarations on a separate line.(Áú³É
+B
+java:S1659%"'Declare "savedTime" on a separate line.(•­àÂÿÿÿÿÿ
+^
+java:S1659&"HDeclare "pauseButton" and all following declarations on a separate line.(à‚âÍ
+q
+java:S1450 "VRemove the "binding" field and declare it as a local variable in the relevant methods.(Ì´ˆÆùÿÿÿÿ
+s
+java:S1450%"XRemove the "savedTime" field and declare it as a local variable in the relevant methods.(•­àÂÿÿÿÿÿ
+`
+java:S1659É"IDeclare "minsInMillis" and all following declarations on a separate line.(ÓÛì
+d	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÙò
+M
+java:S1068$"7Remove this unused "timeElapsedInMillis" private field.(Áú³É

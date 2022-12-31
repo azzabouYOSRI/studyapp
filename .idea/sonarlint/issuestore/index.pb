@@ -1,0 +1,21 @@
+
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+p
+@app/src/androidTest/java/com/example/studyapp/ActivityTests.java,3/c/3c5fdb3e6246493f015c2f0819f9301a07216913
+g
+7app/src/main/java/com/example/studyapp/taskdb/Task.java,b/3/b33e37bce6bbfcd5bf6f34715ed44587bc6d4a6f
+o
+?app/src/main/java/com/example/studyapp/taskdb/TaskDatabase.java,b/b/bbbda4feb43080e8369c93004baf627ce7a2112a
+r
+Bapp/src/main/java/com/example/studyapp/taskdb/TaskListAdapter.java,5/3/53b678ee28e0088505205658e91e1741a7d8ac8d
+q
+Aapp/src/main/java/com/example/studyapp/taskdb/TaskRepository.java,5/5/5545240bb89e05a1d0b9c948f7ea8450f9f897f6
+p
+@app/src/main/java/com/example/studyapp/taskdb/TaskViewModel.java,0/e/0ef55966c71d3bcbcc2a1378906739e78eb6f2d4
+j
+:app/src/main/java/com/example/studyapp/taskdb/TaskDao.java,9/6/96bce1bd89ea94a301b1e361d80b7714891670ad
+t
+Dapp/src/main/java/com/example/studyapp/activities/TimerActivity.java,1/6/162c342b25ceae1fd857f4213d0e168381d8149e
+s
+Capp/src/main/java/com/example/studyapp/activities/MainActivity.java,d/f/df0c60d43c5b50355aa37e80af0768ca9c238791
